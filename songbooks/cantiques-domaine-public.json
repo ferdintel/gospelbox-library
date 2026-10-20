@@ -1,0 +1,45 @@
+{
+  "format": "gospelbox-songbook",
+  "name": "Cantiques du domaine public",
+  "songs": [
+    {
+      "number": 1,
+      "title": "À toi la gloire",
+      "author": "Edmond Budry (1854-1932)",
+      "composer": "G. F. Haendel",
+      "copyright": "Domaine public",
+      "lyrics": "[1]\nÀ toi la gloire, ô Ressuscité !\nÀ toi la victoire pour l'éternité !\nBrillant de lumière, l'ange est descendu,\nIl roule la pierre du tombeau vaincu.\n\n[R]\nÀ toi la gloire, ô Ressuscité !\nÀ toi la victoire pour l'éternité !\n\n[2]\nVois-le paraître : c'est lui, c'est Jésus,\nTon Sauveur, ton Maître ! Oh ! ne doute plus !\nSois dans l'allégresse, peuple du Seigneur,\nEt redis sans cesse que Christ est vainqueur !\n\n[R]\n\n[3]\nCraindrais-je encore ? Il vit à jamais,\nCelui que j'adore, le Prince de paix ;\nIl est ma victoire, mon puissant soutien,\nMa vie et ma gloire : non, je ne crains rien !\n\n[R]"
+    },
+    {
+      "number": 2,
+      "title": "Grand Dieu, nous te bénissons",
+      "author": "Benedict Pictet (1655-1724)",
+      "copyright": "Domaine public",
+      "lyrics": "Grand Dieu, nous te bénissons,\nNous célébrons tes louanges !\nÉternel, nous t'exaltons,\nDe concert avec les anges,\nEt prosternés devant toi,\nNous t'adorons, ô grand Roi !\n\nLes saints et les bienheureux,\nLes trônes et les puissances,\nToutes les vertus des cieux\nDisent tes magnificences,\nProclamant dans leurs concerts\nLe grand Dieu de l'univers.\n\nSaint, saint, saint est l'Éternel,\nLe Seigneur, Dieu des armées !\nSon pouvoir est immortel,\nSes œuvres partout semées\nFont éclater sa grandeur,\nSa majesté, sa splendeur.\n\nSauve ton peuple, Seigneur,\nEt bénis ton héritage ;\nQue ta gloire et ta splendeur\nSoient à jamais son partage ;\nConduis-le par ton amour\nJusqu'au céleste séjour !"
+    },
+    {
+      "number": 3,
+      "title": "C'est un rempart que notre Dieu",
+      "author": "Martin Luther, trad. Henri Lutteroth (1802-1889)",
+      "composer": "Martin Luther",
+      "copyright": "Domaine public",
+      "lyrics": "C'est un rempart que notre Dieu,\nUne invincible armure,\nNotre délivrance en tout lieu,\nNotre défense sûre.\nL'ennemi contre nous\nRedouble de courroux :\nVaine colère !\nQue pourrait l'adversaire ?\nL'Éternel détourne ses coups.\n\nSeuls, nous bronchons à chaque pas,\nNotre force est faiblesse ;\nMais un héros, dans nos combats,\nPour nous lutte sans cesse.\nQuel est ce défenseur ?\nC'est toi, puissant Sauveur,\nDieu des armées !\nTes tribus opprimées\nConnaîtront leur libérateur.\n\nQue les démons forgent des fers\nPour accabler l'Église,\nTa Sion brave les enfers,\nSur le rocher assise.\nConstant dans son effort,\nEn vain avec la mort\nSatan conspire :\nPour briser son empire,\nIl suffit d'un mot du Dieu fort.\n\nDis-le, ce mot victorieux,\nDans toutes nos détresses ;\nRépands sur nous du haut des cieux\nTes divines largesses.\nQu'on nous ôte nos biens,\nQu'on serre nos liens,\nQue nous importe ?\nTa grâce est la plus forte,\nEt ton royaume est pour les tiens."
+    },
+    {
+      "number": 4,
+      "title": "Il est né, le divin Enfant",
+      "author": "Traditionnel",
+      "composer": "Air traditionnel",
+      "copyright": "Domaine public",
+      "lyrics": "[R]\nIl est né, le divin Enfant,\nJouez hautbois, résonnez musettes !\nIl est né, le divin Enfant,\nChantons tous son avènement !\n\n[1]\nDepuis plus de quatre mille ans,\nNous le promettaient les prophètes ;\nDepuis plus de quatre mille ans,\nNous attendions cet heureux temps.\n\n[R]\n\n[2]\nAh ! qu'il est beau, qu'il est charmant !\nAh ! que ses grâces sont parfaites !\nAh ! qu'il est beau, qu'il est charmant !\nQu'il est doux, ce divin Enfant !\n\n[R]\n\n[3]\nUne étable est son logement,\nUn peu de paille est sa couchette ;\nUne étable est son logement,\nPour un Dieu, quel abaissement !\n\n[R]"
+    },
+    {
+      "number": 5,
+      "title": "Les anges dans nos campagnes",
+      "author": "Traditionnel",
+      "composer": "Air traditionnel",
+      "copyright": "Domaine public",
+      "lyrics": "[1]\nLes anges dans nos campagnes\nOnt entonné l'hymne des cieux,\nEt l'écho de nos montagnes\nRedit ce chant mélodieux :\n\n[R]\nGloria in excelsis Deo !\nGloria in excelsis Deo !\n\n[2]\nBergers, pour qui cette fête ?\nQuel est l'objet de tous ces chants ?\nQuel vainqueur, quelle conquête\nMérite ces cris triomphants ?\n\n[R]\n\n[3]\nIls annoncent la naissance\nDu Libérateur d'Israël,\nEt, pleins de reconnaissance,\nChantent en ce jour solennel :\n\n[R]"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "songbooks": [
+    {
+      "id": "cantiques-domaine-public",
+      "name": "Cantiques du domaine public",
+      "language": "fr",
+      "description": "Quelques grands classiques : À toi la gloire, Grand Dieu nous te bénissons, C’est un rempart que notre Dieu…",
+      "source": "Sélection GospelBox",
+      "license": "Domaine public",
+      "songs": 5,
+      "file": "songbooks/cantiques-domaine-public.json",
+      "size": 4490,
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "open-hymnal",
+      "name": "Open Hymnal",
+      "language": "en",
+      "description": "Amazing Grace, Abide With Me, Holy Holy Holy, A Mighty Fortress… avec auteurs et compositeurs.",
+      "source": "Open Hymnal Project, édition 2008",
+      "license": "Domaine public",
+      "songs": 289,
+      "file": "songbooks/open-hymnal.json",
+      "size": 370486,
+      "updated": "2026-10-20"
+    },
+    {
+      "id": "watts-hymns",
+      "name": "Isaac Watts – Hymns and Spiritual Songs",
+      "language": "en",
+      "description": "Les cantiques d’Isaac Watts : When I Survey the Wondrous Cross, Alas! and Did My Saviour Bleed, Come, We That Love the Lord…",
+      "source": "Project Gutenberg n° 13341",
+      "license": "Domaine public",
+      "songs": 352,
+      "file": "songbooks/watts-hymns.json",
+      "size": 355308,
+      "updated": "2026-10-20"
+    }
+  ]
+}
